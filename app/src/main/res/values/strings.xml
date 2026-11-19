@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoMeter</string>
+    <string name="tagline">Smart Auto Rickshaw Fare &amp; Route Meter</string>
+    <string name="route_tab">Route Fare</string>
+    <string name="meter_tab">Live Meter</string>
+    <string name="rate_card_tab">Rate Card</string>
+</resources>

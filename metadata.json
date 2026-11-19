@@ -1,0 +1,6 @@
+{
+  "name": "AutoMeter",
+  "description": "Auto rickshaw fare calculator and live GPS meter with OpenStreetMap route analysis, Rs 30/2km minimum, Rs 15/km extra, Rs 10/15min waiting charges, and automatic +50% night surcharge (7 PM - 6 AM).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
